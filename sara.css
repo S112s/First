@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+    direction:rtl
+}
+h1{
+    color: rgb(147, 80, 255);
+    background-color: papayawhip;
+    font: normal 900 ;
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    text-align: center;
+}

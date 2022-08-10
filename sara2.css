@@ -1,0 +1,34 @@
+body{
+    background-image: url(flower.jpeg);
+    background-repeat: no-repeat;
+    background-size:1400px 660px;
+    direction: rtl;
+}
+.pp{
+    font: normal 900 25px Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+    margin: 0px 300px 0px 0px;
+}
+.qq{
+    font: normal 900 27px Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+    /* margin-top: -440px; */
+    /* margin-right: 850px; */
+    margin: -440px 850px 0px 0px;
+}
+.ss{
+    margin: -110px 800px 0px 0px;
+
+
+}
+.aa{
+    margin: 40px 0px 0px 0px;
+    
+}
+div{
+    text-decoration:underline;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 30px;
+    color: blue;
+}
